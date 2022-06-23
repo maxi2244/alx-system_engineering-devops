@@ -7,3 +7,4 @@ Clean Emacs
 Lets move
 clean emacs
 Tree
+life is a series of commas,not periods
