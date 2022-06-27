@@ -1,1 +1,1 @@
-last lines
+Last lines of a file
