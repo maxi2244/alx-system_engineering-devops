@@ -1,1 +1,1 @@
-it must be in a file
+count that word
