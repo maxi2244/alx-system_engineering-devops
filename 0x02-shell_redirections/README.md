@@ -1,1 +1,1 @@
-no more javascript
+no moe javascript
