@@ -1,1 +1,1 @@
-dont just count your directories,make your directories count
+Dont just count your directories, make your directories count
