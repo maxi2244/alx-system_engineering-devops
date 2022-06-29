@@ -1,1 +1,1 @@
-divid eand rule
+power
