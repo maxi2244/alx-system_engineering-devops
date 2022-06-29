@@ -1,1 +1,1 @@
-global variables
+true knowledge
